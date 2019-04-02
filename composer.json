@@ -1,0 +1,21 @@
+{
+    "name": "hidden-hotel-cheats/hidden-hotel-hack-mod-apk-get-unlimited-gold",
+    "description": "Hidden Hotel Hack Mod APK Get Unlimited Gold Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Hidden Hotel",
+            "homepage": "http://astuce.cf/2019/02/hidden-hotel-hack-cash-cheats.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
